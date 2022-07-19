@@ -1,2 +1,2 @@
-iTunesをcatarina以降で起動する人のためのランチャーです．Automatorで手っ取り早く作成しました．
+iTunesをcatarina以降で起動する人のためのランチャーです．<br>Automatorで手っ取り早く作成しました．<br>
 肝心のiTunes本体はどっかから取ってきてください．
